@@ -52,7 +52,6 @@ const CustomerForm = () => {
       return;
     }
 
-    // Aquí iría la lógica para enviar los datos a la base de datos
     alert('Datos enviados correctamente.');
   };
 
